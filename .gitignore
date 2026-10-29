@@ -13,6 +13,7 @@ docs/agents/
 scripts/tmp-*.mjs
 scripts/test-*.mjs
 .scratch/
+.compat-work/
 dsh-redteam-mode-main/
 /1
 
